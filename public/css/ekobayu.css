@@ -15,7 +15,15 @@
 #sm-cover-portofolio {
   font-family: sans-serif;
   overflow: hidden;
-  background: linear-gradient(rgba(19, 100, 205, 0.7), rgba(100, 44, 89, 0.6)), url(../img/solder.jpg) fixed center center;
+  background: linear-gradient(rgba(119, 111, 3, 0.7), rgba(238, 216, 16, 0.24)), url(../img/solder.jpg) fixed center center;
+  background-size: cover;
+  padding: 80px 0;
+}
+
+#sm-cover-event {
+  font-family: sans-serif;
+  overflow: hidden;
+  background: linear-gradient(rgba(19, 100, 205, 0.7), rgba(14, 8, 99, 0.6)), url(../img/event-cover.jpeg) fixed center center;
   background-size: cover;
   padding: 80px 0;
 }
